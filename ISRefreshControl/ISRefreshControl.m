@@ -11,7 +11,7 @@ typedef NS_ENUM(NSInteger, ISRefreshingState) {
 };
 
 static CGFloat const ISRefreshControlDefaultHeight = 44.f;
-static CGFloat const ISRefreshControlThreshold = 70.f;
+static CGFloat const ISRefreshControlThreshold = 85.f;
 
 @interface ISRefreshControl ()
 
